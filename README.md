@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vlaho Vručinić
-- 👀 I’m interested in ...
+- 👀 I’m interested in web developement
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - e-mail: vrucinicvlaho@gmail.com
